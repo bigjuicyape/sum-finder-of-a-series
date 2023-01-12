@@ -48,5 +48,3 @@ let anglec = document.getElementById("anglec").value
 let A = 2
 }
 
-// for (let i = 1; i > 0; i++){
-// }
